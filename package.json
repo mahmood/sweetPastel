@@ -2,7 +2,7 @@
     "name": "sweetpastel",
     "displayName": "SweetPastel",
     "description": "simple pastel syntax theme",
-    "version": "0.6.0",
+    "version": "0.8.0",
     "publisher": "Mahmood",
     "engines": {
         "vscode": "^1.11.0"
