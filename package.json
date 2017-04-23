@@ -1,0 +1,26 @@
+{
+    "name": "sweetpastel",
+    "displayName": "SweetPastel",
+    "description": "simple pastel syntax theme",
+    "version": "0.3.0",
+    "publisher": "imahmoodz",
+    "engines": {
+        "vscode": "^1.11.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+		"type": "git",
+		"url": "git+https://github.com/imahmoodz/sweetPastel.git"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "SweetPastel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SweetPastel.tmTheme"
+            }
+        ]
+    }
+}
