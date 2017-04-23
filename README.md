@@ -1,6 +1,6 @@
 
 ## Overview
-SweetPastel is simple pastel syntax theme for VSCode.
+[SweetPastel](https://marketplace.visualstudio.com/items?itemName=Mahmood.sweetpastel) is simple pastel syntax theme for VSCode.
 
 ## Screenshot
 ![screenshot](https://rawgit.com/imahmoodz/sweetPastel/master/screenshot.png)
